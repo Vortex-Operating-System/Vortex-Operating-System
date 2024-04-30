@@ -1,2 +1,2 @@
 # Vortex-Operating-System
-About readme.
+THis is a Oginization to do with the VortexOS project.
